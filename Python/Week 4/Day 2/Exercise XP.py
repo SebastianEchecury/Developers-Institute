@@ -109,3 +109,16 @@ print("Minutes lived:", minutesLived)
 from faker import Faker
 
 f = Faker()
+users = list()
+
+def addFakeUser(users):
+    user = dict()
+    user['name'] = f.name()
+    user['adress'] = f.address()
+    #user['langage_code'] = 
+    users.append(user)
+
+addFakeUser(users)
+addFakeUser(users)
+for u in users:
+    print(u)
