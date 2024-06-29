@@ -1,0 +1,12 @@
+What is data analysis?
+Data analysis is the practice of working with data to glean useful information, which can then be used to make informed decisions.
+
+Why is data analysis important in modern contexts?
+Because it helps to take better decisions.
+
+List and describe three areas where data analysis is applied today.
+Business and Marketing:  Data analysis is crucial for understanding customer behavior and making informed business decisions. Companies can track website traffic, analyze sales data, and gauge customer sentiment through social media to identify trends, target advertising effectively, and develop products that meet customer needs.  For instance, recommender systems on e-commerce platforms use data analysis to suggest products to users based on their past purchases and browsing history.
+
+Healthcare:  The medical field heavily utilizes data analysis for research, diagnosis, and treatment.  Researchers can analyze vast datasets of medical records to identify risk factors for diseases, develop new treatments, and improve patient outcomes.  In hospitals, data analysis can be used to monitor patient vitals in real-time, predict potential complications, and personalize treatment plans.
+
+Finance:  Financial institutions rely on data analysis to manage risk, detect fraud, and make informed investment decisions.  By analyzing customer data, banks can assess creditworthiness and offer personalized loan products.  Data analysis also plays a role in high-frequency trading, where algorithms are used to analyze market trends and make rapid investment decisions.
