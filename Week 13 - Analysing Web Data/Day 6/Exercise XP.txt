@@ -1,0 +1,45 @@
+Exercise 1
+
+Statement
+Model that accurately identifies loan applicants at high risk of default.
+
+Data needed
+Demographic information, Credit history, Loan details, Repayment history
+
+Sources
+Financial institution's databases
+
+Exercise 2
+Age: Younger borrowers may have less established credit history and financial stability.
+Income: Higher income indicates greater capacity to repay the loan.
+Loan Amount: Larger loan amounts pose a higher risk of default, as they place a greater burden on the borrower's finances.
+Repayment History: Past repayment behavior is a strong indicator of future defaults. Borrowers with a history of late payments or defaults are more likely to default again.
+Credit Score: A key metric reflecting an individual's creditworthiness and ability to manage debt. Borrowers with lower credit scores are generally considered higher risk.
+
+Exercise 3
+
+Data Splitting: Divide the dataset into three subsets:
+
+Training set: Used to train the model.
+Validation set: Used to tune hyperparameters and select the best model.
+Test set: Used to evaluate the final model's performance on unseen data.
+Model Training: Train the chosen model on the training set.
+
+Hyperparameter Tuning: Optimize model performance by adjusting hyperparameters using the validation set.
+
+Model Evaluation: Evaluate the best model on the test set using relevant metrics.
+
+Model Refinement: Based on the evaluation results, iterate on feature engineering, model selection, and hyperparameter tuning.
+
+
+Exercise 4
+
+Predicting Stock Prices
+Time Series Analysis: This approach is suitable for analyzing historical stock price data to identify patterns and trends.
+
+Organizing a Library of Books
+
+Unsupervised Learning: This technique is ideal for grouping similar items together without predefined labels. By analyzing the content, authors, genres, and other relevant features of books, clustering algorithms can automatically categorize books into different groups or genres.
+
+Program a robot to navigate and find the shortest path in a maze
+Reinforcement Learning: This approach is well-suited for tasks where an agent learns to make decisions through trial and error to achieve a goal. In this case, the robot can learn to navigate the maze by exploring different paths and receiving rewards for reaching the exit quickly.
